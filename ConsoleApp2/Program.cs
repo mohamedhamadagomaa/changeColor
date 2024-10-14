@@ -8,6 +8,7 @@
         {
             while (true)
             {
+                // the while loop for looping each time end the process
                 Console.WriteLine("Choose the select option: ");
                 Console.WriteLine("[1] change the background color \t\t[2] change the Foreground color");
                 string selectedOption = Console.ReadLine();
